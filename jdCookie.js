@@ -1,5 +1,5 @@
 let CookieJDs = [
-  '',//账号一ck
+  'SZFF5SKKECBN7D55G7LUKCRDA2COMEOQKH2I73PGEOPK64ZHQPO2BNIGG7EYGOSJL2CMLU3Y5FBB5JOX556AWBZP2E',//账号一ck
   '',//账号二ck,如有更多,依次类推
 ]
 // 判断github action里面是否有京东ck
